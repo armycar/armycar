@@ -1,5 +1,4 @@
-<img src="https://img.shields.io/badge/#6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
-
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 <!--
 **armycar/armycar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
