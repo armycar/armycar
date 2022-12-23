@@ -6,7 +6,7 @@
 </div>
 
 <div align=center>
-![Taehyun's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=kycasdzxc)
+![Taehyun's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=armycar)
 </div>
 
 
