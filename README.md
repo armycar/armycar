@@ -1,6 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Daegun's%20GitHub%20Profile&descAlignY=51&descAlign=62)
-
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkim-armycar&count_bg=%23FFDAC7&title_bg=%23FFADAD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Daegun's%20GitHub%20Profile&descAlignY=51&descAlign=62)
 
 ![Daegun's GitHub stats](https://github-readme-stats.vercel.app/api?username=armycar&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=armycar&langs_count=8&layout=compact&theme=radical)](https://github.com/armycar/github-readme-stats)
