@@ -15,4 +15,5 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ckeorns3@gmail.com)](mailto:ckeorns3@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:credit102@naver.com)](mailto:credit102@naver.com)
 
-![Daegun's GitHub stats](https://github-readme-stats.vercel.app/api?username=armycar&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=armycar&langs_count=8&layout=compact&theme=radical)](https://github.com/armycar/github-readme-stats)
+<!-- ![Daegun's GitHub stats](https://github-readme-stats.vercel.app/api?username=armycar&show_icons=true&theme=radical) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=armycar&langs_count=8&layout=compact&theme=radical)](https://github.com/armycar/github-readme-stats) -->
