@@ -3,8 +3,8 @@
 # 📚 Skills
 ### Platforms & Languages
 ![Java](https://img.shields.io/badge/Java-03C75A.svg?&style=for-the-badge&logo=Java&logoColor=white)
-![Jpa](https://img.shields.io/badge/JPA-59666C.svg?style=for-the-badge&logo=Hibernate&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=Spring%20Boot&logoColor=white)
+![Jpa](https://img.shields.io/badge/JPA-59666C.svg?style=for-the-badge&logo=Hibernate&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D.svg?&style=for-the-badge&logo=Swagger&logoColor=white)
 
