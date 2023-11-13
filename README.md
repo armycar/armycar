@@ -1,5 +1,5 @@
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&lines=👋🏼+Welcome&font=Redressed&size=35)](https://git.io/typing-svg) -->
-![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Hi%20there👋&fontAlign=70&rotate=13&fontAlignY=25&desc=&descAlign=70.&descAlignY=44) 
+![slice](https://capsule-render.vercel.app/api?type=slice&color=B8F7A4&height=200&text=Hi%20there👋&fontAlign=70&rotate=13&fontAlignY=25&desc=&descAlign=70.&descAlignY=44) 
 
 # 📚 Skills
 ### Platforms & Languages
